@@ -1,0 +1,11 @@
+streamlit
+requests
+beautifulsoup4
+google-generativeai
+python-dotenv
+selenium
+webdriver-manager
+scikit-learn
+chromadb
+youtube-transcript-api
+pypdf2
